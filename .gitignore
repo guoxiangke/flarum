@@ -19,3 +19,4 @@ yarn-error.log
 /package-lock.json
 sftp-config.json
 docs.md
+public/assets
